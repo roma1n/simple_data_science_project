@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Notebooks cache
+.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data folder
+data/*
+!data/README.MD
